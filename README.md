@@ -14,7 +14,7 @@ Create a new class with a main method that prompts the user for input and does t
 Tells whether or not what the user entered is a number
 Flips the case of the string
 Reverses the string
-Example Console Output
+###Example Console Output
 
 
 Enter Something: Life, The Universe, and Everything
